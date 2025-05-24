@@ -26,11 +26,10 @@ Aplicar o modelo XGBoost para:
 
 O modelo alcançou bons resultados e permitiu identificar as variáveis mais importantes na decisão de compra.
 
-## 📷 Exemplos Visuais
+## 📸 Exemplos Visuais
 
-![Matriz de Confusão](Captura%20de%20tela%202025-05-24%20054631.png)
-![Importância das Features](Captura%20de%20tela%202025-05-24%20054646.png)
-
+![Matriz de Confusão](Imagens/Captura de tela 2025-05-24 054631.png)
+![Importância das Features](Imagens/Captura de tela 2025-05-24 054646.png)
 
 ---
 
